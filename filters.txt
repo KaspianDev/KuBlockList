@@ -3,4 +3,5 @@
 ! License: https://github.com/KaspianDev/KuBlockList/blob/master/LICENSE
 ! Homepage: https://github.com/KaspianDev/KuBlockList
 
-##.funbox.sectionMain:has(.funboxWrapper:has(.advertisement))
+! https://www.spigotmc.org
+www.spigotmc.org##.funbox.sectionMain:has(.funboxWrapper:has(.advertisement))
