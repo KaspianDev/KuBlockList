@@ -1,0 +1,6 @@
+! Title: KuBlockList
+! Description: A small personal list of adblock filters.
+! License: https://github.com/KaspianDev/KuBlockList/blob/master/LICENSE
+! Homepage: https://github.com/KaspianDev/KuBlockList
+
+##.funbox.sectionMain:has(.funboxWrapper:has(.advertisement))
