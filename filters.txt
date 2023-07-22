@@ -10,4 +10,4 @@ www.spigotmc.org##.funbox.sectionMain:has(.funboxWrapper:has(.advertisement))
 ! adrinth
 modrinth.com##.modrinth-content-wrapper:has(div[data-ea-publisher])
 ! updated ads
-modrinth.com##.MYYLVTXBPUVWMLVBPVSDLHADDRYFBF
+modrinth.com##.normal-page__content > div:first-child
