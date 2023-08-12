@@ -9,3 +9,6 @@ www.spigotmc.org##.funbox.sectionMain:has(.funboxWrapper:has(.advertisement))
 ! https://modrinth.com
 ! adrinth
 modrinth.com##.modrinth-content-wrapper:has(div[data-ea-publisher])
+
+! https://www.spigotmc.org
+www.spigotmc.org##.funboxWrapper:has(.advertisement)
