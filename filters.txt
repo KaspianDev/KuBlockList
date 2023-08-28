@@ -12,3 +12,6 @@ modrinth.com##.modrinth-content-wrapper:has(div[data-ea-publisher])
 
 ! https://www.spigotmc.org
 www.spigotmc.org##.funboxWrapper:has(.advertisement)
+
+! https://github.com
+github.com##.d-flex.color-bg-subtle.border-top.mt-0.p-3.text-bold.Box-row
