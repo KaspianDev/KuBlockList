@@ -15,3 +15,4 @@ www.spigotmc.org##.funboxWrapper:has(.advertisement)
 
 ! https://github.com
 github.com##.d-flex.color-bg-subtle.border-top.mt-0.p-3.text-bold.Box-row
+github.com##div.react-code-size-details-in-header.Box-sc-g0xbh4-0 > .jVCogy.types__StyledButton-sc-ws60qy-0
